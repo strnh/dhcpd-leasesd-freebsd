@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/local/bin/ksh
 version='1.5'
 # Copyright (c) 2022 Dinos Costanti <dinos@lab02.org>
 # https://github.com/facelessfish/dhcpd-leasesd
